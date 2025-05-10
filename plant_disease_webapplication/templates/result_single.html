@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Diagnosis {{ idx+1 }}</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background: linear-gradient(to right, #1e1e1e, #2e2e2e);
+      color: white;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 40px;
+    }
+    .image-box img {
+      width: 100%;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    .section {
+      background: rgba(255, 255, 255, 0.05);
+      padding: 20px;
+      border-radius: 15px;
+      margin-bottom: 25px;
+    }
+    .btn-custom {
+      background-color: #28a745;
+      border: none;
+      color: white;
+      padding: 10px 25px;
+      font-weight: bold;
+      border-radius: 25px;
+      transition: 0.3s;
+    }
+    .btn-custom:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+
+  <h2 class="text-center mb-4">🌿 Diagnosis {{ idx + 1 }} of {{ total }}</h2>
+  <a href="{{ url_for('download_report', idx=idx) }}">
+    <button class="download-btn">📄 Download Report</button>
+</a>
+  <div class="row">
+    <div class="col-md-6 image-box">
+      <h5>📷 Uploaded Leaf</h5>
+      <img src="{{ url_for('static', filename='uploads/' + r['image_path'].split('/')[-1]) }}" alt="Uploaded Leaf">
+    </div>
+    <div class="col-md-6 image-box">
+      <h5>🧠 Grad-CAM Highlight</h5>
+    <img src="{{ url_for('static', filename='uploads/' + r['gradcam_path'].split('/')[-1]) }}" alt="Grad-CAM">
+    </div>
+  </div>
+
+  <div class="section mt-4">
+    <h4>🦠 Predicted Disease:</h4>
+    <p><strong>{{ r.disease }}</strong></p>
+    <p>📊 <strong>Confidence:</strong> {{ r.confidence }}%</p>
+  </div>
+
+<div class="remedy-section">
+  <h3>🦠 Cause</h3>
+  <p>{{ r.cause }}</p>
+</div>
+
+<div class="remedy-section">
+  <h3>🌿 Natural Remedy</h3>
+  <p>{{ r.natural.replace('\n', '<br>') | safe }}</p>
+</div>
+
+<div class="remedy-section">
+  <h3>🧪 Pesticide Remedy</h3>
+  <p>{{ r.pesticide.replace('\n', '<br>') | safe }}</p>
+</div>
+
+  <div class="text-center mt-4">
+    <a href="/results" class="btn btn-custom">🔙 Back to All Results</a>
+    <a href="/" class="btn btn-custom">🔁 Diagnose More</a>
+  </div>
+
+<div style="text-align: center; margin-top: 30px;">
+  <a href="{{ url_for('index') }}">
+    <button style="
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      padding: 10px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;">
+      ⬅️ Back to Home
+    </button>
+  </a>
+</div>
+
+
+</body>
+</html>
