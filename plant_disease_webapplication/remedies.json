@@ -1,0 +1,204 @@
+{"Tomato___Late_blight": {
+        "cause": "Caused by the oomycete pathogen *Phytophthora infestans*, which spreads rapidly in cool, wet conditions.",
+        "natural": "Remove infected leaves and avoid overhead watering.Apply neem oil or compost tea weekly to build plant immunity.Ensure good air circulation by spacing plants adequately.Water in the morning to allow foliage to dry out during the day.Mulch around the base of plants to prevent soil-borne spores from splashing onto leaves.",
+        "pesticide": "Use copper-based fungicides as a preventative and early treatment.Chlorothalonil is effective if applied before heavy infection.Reapply treatments after rainfall and follow label safety instructions.Rotate between different fungicides to prevent resistance.Avoid spraying in windy conditions and wear proper protective equipment."
+    },
+    "Potato___Early_blight": {
+        "cause": "Caused by the fungus *Alternaria solani*, typically affecting older foliage under warm, humid conditions.",
+        "natural": "Remove and destroy infected leaves as soon as symptoms appear.  Spray with a solution of baking soda  {1 tbsp per gallon of water } and a few drops of mild soap.  Apply neem oil biweekly during high-risk periods.  Ensure proper spacing and prune for air circulation.  Avoid watering late in the day to reduce leaf wetness overnight.",
+        "pesticide": "Apply fungicides containing mancozeb, chlorothalonil, or copper oxychloride.  Start treatments before symptoms appear during wet seasons.  Follow a 7-10 day spray schedule during outbreaks.  Rotate chemicals to avoid resistance buildup.  Dispose of plant debris and avoid planting potatoes or tomatoes in the same spot next year."
+    },
+    "Apple___Apple_scab": {
+        "cause": "A fungal disease caused by *Venturia inaequalis*, affecting leaves and fruit in spring when moisture is abundant.",
+        "natural": "Rake and destroy fallen leaves in autumn to reduce overwintering spores.  Apply sulfur sprays early in the season to protect new growth.  Use resistant apple varieties if possible.  Prune to allow light and air into the canopy.  Avoid excessive nitrogen fertilization that promotes dense growth.",
+        "pesticide": "Use fungicides such as captan or myclobutanil during early bud break.  Follow with additional sprays every 7-10 days during wet weather.  Ensure thorough coverage of foliage and fruit.  Alternate fungicides with different modes of action.  Do not apply during high temperatures to prevent phytotoxicity."
+    },
+    "Apple___Black_rot": {
+        "cause": "Caused by the fungus *Botryosphaeria obtusa*, which infects bark, leaves, and fruit.",
+        "natural": "Prune and remove cankered branches during dormancy.  Destroy infected fruit mummies and fallen debris.  Use compost teas or copper soap sprays preventatively.  Avoid mechanical injuries to trees that facilitate entry.  Maintain tree health with proper fertilization and watering.",
+        "pesticide": "Apply thiophanate-methyl or mancozeb as a preventive spray.  Begin applications at petal fall and continue on a 2-week schedule.  Use labeled fungicides approved for fruit-bearing trees.  Combine sprays with pruning and sanitation.  Always follow label directions and reapply after rain."
+    },
+    "Apple___Cedar_apple_rust": {
+        "cause": "Caused by the fungus *Gymnosporangium juniperi-virginianae*, spread between apple and cedar trees.",
+        "natural": "Remove nearby cedar or juniper hosts if feasible.  Apply sulfur or copper sprays early in the season.  Use resistant apple varieties when possible.  Prune trees for good air circulation.  Clean up infected leaves and debris around trees.",
+        "pesticide": "Spray myclobutanil or propiconazole beginning at tight cluster stage.  Continue spraying every 7-10 days through bloom.  Rotate with other fungicides to delay resistance.  Apply in early morning or evening to reduce phytotoxicity.  Wear protective gear when applying systemic fungicides."
+    },
+    "Apple___healthy": {
+        "cause": "No disease present; the apple tree is in healthy condition.",
+        "natural": "Continue good horticultural practices to maintain health.  Water deeply but infrequently, and apply mulch to retain moisture.  Monitor for early signs of pests or disease.  Prune for airflow and sun exposure.  Fertilize according to soil test results in spring.",
+        "pesticide": "No treatment needed. Preventative care is sufficient.  If desired, use horticultural oils during dormant season.  Monitor leaves weekly during growing season.  Avoid unnecessary pesticide use on healthy plants.  Only treat if clear symptoms develop."
+    },
+    "Blueberry___healthy": {
+        "cause": "Plant is healthy with no current signs of disease.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "cause": "Caused by the fungus *Podosphaera clandestina*, it thrives in warm, dry conditions with high humidity.",
+        "natural": "Prune affected branches and ensure proper air circulation.  Apply sulfur or neem oil sprays early in the season.  Use resistant cultivars if planting new trees.  Avoid excess nitrogen fertilization that promotes lush growth.  Water trees early in the day to allow foliage to dry.",
+        "pesticide": "Use myclobutanil or trifloxystrobin as a preventative fungicide.  Begin sprays at petal fall and repeat every 7-10 days.  Rotate chemical classes to prevent resistance development.  Ensure even coverage of leaves and avoid spraying in high heat.  Use protective gear and follow all safety instructions."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "cause": "No disease present; the tree is in good health and actively growing.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "cause": "Caused by *Cercospora zeae-maydis*, a fungus favored by warm, humid weather.",
+        "natural": "Rotate crops and avoid planting corn in the same field annually.  Remove infected crop residues after harvest.  Plant resistant hybrids when available.  Ensure wide row spacing for air movement.  Use organic compost to improve soil health.",
+        "pesticide": "Apply fungicides like azoxystrobin or propiconazole at tasseling.  Use aerial or ground applications during early infection.  Do not exceed recommended spray intervals.  Combine with integrated crop management practices.  Maintain clean equipment to avoid spreading spores."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "cause": "Caused by the fungus *Puccinia sorghi*, it spreads through wind-borne spores and thrives in moist environments.",
+        "natural": "Plant rust-resistant hybrids if available.  Rotate crops to reduce inoculum levels in the soil.  Promote airflow between plants by avoiding overcrowding.  Remove infected crop debris after harvest.  Monitor fields regularly and act quickly at the first sign of infection.",
+        "pesticide": "Use fungicides like tebuconazole or pyraclostrobin.  Apply at the first appearance of rust pustules, especially during silking.  Repeat applications based on label intervals and disease pressure.  Do not exceed maximum allowed applications per season.  Use sprayers that ensure good coverage of leaf surfaces."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "cause": "Caused by the fungus *Exserohilum turcicum*, favored by wet, moderate temperatures.",
+        "natural": "Use resistant corn varieties when possible.  Rotate crops and till to bury infected residue.  Improve air circulation through field layout.  Avoid overhead irrigation that keeps leaves wet.  Scout early and remove infected leaves in small plantings.",
+        "pesticide": "Apply fungicides like propiconazole or azoxystrobin during early tasseling.  Use multiple applications during high humidity.  Alternate fungicides to avoid resistance.  Follow label recommendations for timing and dose.  Use proper protective equipment when handling chemicals."
+    },
+    "Corn_ {maize)___healthy": {
+        "cause": "No symptoms of disease; plants are healthy and developing normally.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+    },
+    "Grape___Black_rot": {
+        "cause": "Caused by the fungus *Guignardia bidwellii*, black rot thrives in warm, humid conditions and spreads via rain-splashed spores.",
+        "natural": "Remove and destroy infected fruit, leaves, and canes.  Prune vines to increase air circulation.  Apply neem oil or sulfur early in the growing season.  Avoid overhead irrigation and maintain weed control.  Use mulch to prevent spore splash from soil to foliage.",
+        "pesticide": "Apply myclobutanil, mancozeb, or captan at bud break.  Continue spraying every 7–14 days until fruit sets.  Reapply fungicides after heavy rainfall.  Ensure complete coverage, especially on leaf undersides.  Rotate fungicides to prevent resistance buildup."
+    },
+    "Grape___Esca_ {Black_Measles }": {
+        "cause": "Caused by a complex of fungi including *Phaeoacremonium aleophilum* and *Togninia minima*, often entering through pruning wounds.",
+        "natural": "Avoid pruning during wet weather to reduce infection risk.  Seal pruning cuts with organic wound dressing.  Improve soil drainage and avoid over-irrigation.  Remove and burn heavily infected vines.  Use compost teas or potassium phosphite sprays to boost immunity.",
+        "pesticide": "There are no curative chemical treatments; management focuses on prevention.  Use fungicides like thiophanate-methyl as pruning wound protectants.  Treat cut surfaces immediately after pruning.  Apply in dry weather and ensure even coverage.  Combine chemical use with strict vineyard sanitation."
+    },
+    "Grape___Leaf_blight_ {Isariopsis_Leaf_Spot }": {
+        "cause": "Caused by the fungus *Isariopsis clavispora*, it affects grapevine foliage and can weaken the plant over time.",
+        "natural": "Remove infected leaves and destroy them away from the vineyard.  Improve canopy airflow through selective pruning.  Apply sulfur or compost tea early in the season.  Use drip irrigation to keep foliage dry.  Monitor weekly during warm, wet periods.",
+        "pesticide": "Spray mancozeb or copper-based fungicides when symptoms appear.  Use a 7–10 day interval between sprays during humid weather.  Rotate fungicides with different modes of action.  Avoid excess nitrogen that encourages dense foliage.  Apply fungicides during dry, calm weather."
+},
+
+    "Grape___healthy": {
+        "cause": "The grape plant shows no signs of disease or pest damage and is growing under optimal conditions.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+    },
+    "Orange___Haunglongbing_ {Citrus_greening }": {
+        "cause": "Caused by the bacterium *Candidatus Liberibacter asiaticus*, transmitted by the Asian citrus psyllid.",
+        "natural": "Remove and destroy infected trees to slow the spread.  Introduce natural predators like lady beetles to control psyllid populations.  Use reflective mulch to repel insects.  Improve tree vigor with balanced organic fertilizers.  Monitor trees frequently for signs of psyllids or mottled leaves.",
+        "pesticide": "Apply systemic insecticides like imidacloprid to manage psyllid vectors.  Follow local agricultural guidelines for tree removal and quarantine.  Spray horticultural oil as a contact insecticide.  Use coordinated regional spraying to reduce psyllid populations.  Avoid excessive use to prevent resistance."
+    },
+    "Peach___Bacterial_spot": {
+        "cause": "Caused by *Xanthomonas arboricola pv. pruni*, it affects leaves, twigs, and fruit under warm, wet conditions.",
+        "natural": "Prune infected twigs during dormancy and dispose of debris.  Avoid overhead irrigation to reduce leaf wetness.  Apply copper sprays early in the season.  Choose resistant cultivars for new plantings.  Ensure adequate spacing between trees for airflow.",
+        "pesticide": "Use copper-based bactericides starting at bud swell.  Apply weekly during periods of rainfall.  Add mancozeb to copper sprays for enhanced efficacy.  Avoid overuse of copper to prevent phytotoxicity.  Apply in early morning or late evening to reduce leaf burn."
+    },
+    "Peach___healthy": {
+        "cause": "Tree is free from disease symptoms and shows normal growth and fruit development.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "cause": "Caused by *Xanthomonas campestris pv. vesicatoria*, it affects leaves and fruit, especially under humid conditions.",
+        "natural": "Remove and destroy infected plant parts.  Avoid working with wet plants to reduce spread.  Use disease-free seeds or transplants.  Apply compost teas or copper soap sprays weekly.  Rotate crops annually to reduce soil inoculum.",
+        "pesticide": "Apply fixed copper fungicides with mancozeb during early stages.  Start treatments at transplanting and repeat weekly.  Do not exceed labeled copper rates to avoid toxicity.  Use foliar sprays early in the morning.  Consider seed treatments with streptomycin under high disease pressure."
+    },
+    "Pepper,_bell___healthy": {
+        "cause": "Bell pepper plant is healthy with no visible signs of disease or stress.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+},
+    "Potato___Early_blight": {
+        "cause": "Caused by the fungus *Alternaria solani*, early blight affects older leaves under warm, humid conditions.",
+        "natural": "Remove infected leaves and avoid overhead watering.  Spray neem oil weekly and use compost tea to boost immunity.  Water in the morning so foliage dries during the day.  Rotate crops and do not plant potatoes or tomatoes in the same area.  Mulch soil to reduce splash of spores from soil to foliage.",
+        "pesticide": "Use chlorothalonil or mancozeb when early symptoms appear.  Apply in 7–10 day intervals, especially during wet periods.  Use alternating fungicides to prevent resistance.  Follow safety labels and reapply after rain.  Dispose of infected debris after harvest."
+    },
+    "Potato___Late_blight": {
+        "cause": "Caused by the oomycete *Phytophthora infestans*, it spreads rapidly in cool, moist weather.",
+        "natural": "Remove affected leaves and avoid overhead irrigation.  Use neem oil or baking soda sprays preventatively.  Improve air circulation between plants.  Harvest tubers before heavy rains to avoid rot.  Destroy infected plants and avoid composting them.",
+        "pesticide": "Use fungicides like chlorothalonil or mancozeb at first sign.  Apply every 5–7 days in wet conditions.  Rotate fungicides to delay resistance.  Use personal protection when spraying.  Reapply after rain and ensure good coverage."
+    },
+    "Potato___healthy": {
+        "cause": "No signs of disease or pests; potato plant is growing normally and producing healthy foliage and tubers.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+    },
+    "Raspberry___healthy": {
+        "cause": "Raspberry plant is in healthy condition with no visible signs of disease or pest infestation.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required."
+    },
+    "Soybean___healthy": {
+        "cause": "The plant shows no signs of common soybean diseases or stress.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+    },
+    "Squash___Powdery_mildew": {
+        "cause": "Caused by *Podosphaera xanthii* or *Erysiphe cichoracearum*, powdery mildew appears as white powdery spots on leaves.",
+        "natural": "Spray with diluted milk  {1:9 ratio with water } or baking soda weekly.  Prune lower leaves to improve air movement.  Avoid overhead watering and ensure full sun exposure.  Use neem oil as a foliar spray early in the day.  Remove heavily infected leaves carefully.",
+        "pesticide": "Use fungicides like sulfur or potassium bicarbonate.  Apply preventatively during dry periods with cool nights.  Rotate chemicals to prevent resistance.  Follow manufacturer’s dilution and timing guidelines.  Do not apply sulfur during high heat."
+    },
+    "Strawberry___Leaf_scorch": {
+        "cause": "Caused by the fungus *Diplocarpon earliana*, it causes purple spots that merge and kill leaf tissue.",
+        "natural": "Remove old, infected leaves after harvest.  Avoid watering the foliage directly.  Use mulch to prevent splash.  Apply compost teas or potassium bicarbonate early in season.  Space plants adequately for ventilation.",
+        "pesticide": "Apply fungicides like myclobutanil or captan when symptoms appear.  Begin spraying pre-bloom and continue every 10 days.  Use caution to avoid bee exposure.  Reapply after rainfall.  Use full coverage on both leaf surfaces."
+    },
+    "Strawberry___healthy": {
+        "cause": "Strawberry plant is in good health, with no disease, discoloration, or wilt symptoms present.",
+        "natural": "No remedies required",
+        "pesticide": "No remedies required"
+    },
+    "Tomato___Bacterial_spot": {
+        "cause": "Caused by *Xanthomonas* species, bacterial spot leads to black lesions on leaves and fruit.",
+        "natural": "Remove and destroy infected plant parts.  Avoid overhead watering.  Use copper sprays every 7–10 days.  Apply compost teas to strengthen immunity.  Rotate tomatoes yearly with non-solanaceous crops.",
+        "pesticide": "Use fixed copper with mancozeb during early outbreaks.  Avoid spraying during heat to prevent leaf burn.  Use spreader-stickers to enhance coverage.  Do not mix with sulfur-based sprays.  Wear gloves and follow all label instructions."
+    },
+    "Tomato___Early_blight": {
+        "cause": "Caused by *Alternaria solani*, early blight starts as concentric ring lesions on older leaves.",
+        "natural": "Remove infected foliage and mulch base of plants.  Apply neem oil or baking soda sprays preventatively.  Water at the base and reduce moisture on leaves.  Use wide spacing and support plants with cages.  Use crop rotation and resistant varieties.",
+        "pesticide": "Spray chlorothalonil or mancozeb when early signs appear.  Repeat every 7–10 days or after rain.  Alternate fungicide groups.  Ensure lower leaves are covered.  Avoid contact with fruits during spraying."
+},
+    "Tomato___Late_blight": {
+        "cause": "Caused by *Phytophthora infestans*, a water mold that spreads in cool, moist environments and attacks leaves, stems, and fruit.",
+        "natural": "Remove and destroy affected leaves immediately.  Avoid overhead watering and irrigate in the morning.  Apply neem oil or hydrogen peroxide spray weekly as a preventive.  Ensure proper plant spacing for airflow.  Avoid planting tomatoes in the same location year after year.",
+        "pesticide": "Apply chlorothalonil or mancozeb at the first sign of infection.  Continue applications every 7 days during wet weather.  Alternate fungicides to avoid resistance.  Ensure thorough coverage of upper and lower leaf surfaces.  Use PPE while spraying and avoid windy conditions."
+    },
+    "Tomato___Leaf_Mold": {
+        "cause": "Caused by the fungus *Passalora fulva*, leaf mold thrives in high humidity and poor air circulation conditions.",
+        "natural": "Improve ventilation by pruning and spacing plants.  Avoid wetting leaves during irrigation.  Apply baking soda spray or milk solution weekly.  Remove infected leaves and dispose of them offsite.  Grow resistant tomato varieties when possible.",
+        "pesticide": "Use fungicides containing chlorothalonil or copper hydroxide.  Apply preventatively during high humidity periods.  Repeat every 7–10 days based on disease pressure.  Spray in early morning or evening for best effect.  Follow label rates and application intervals closely."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "cause": "Caused by *Septoria lycopersici*, it results in small dark spots with light centers, primarily on lower leaves.",
+        "natural": "Remove and destroy infected leaves as soon as spotted.  Mulch the base to reduce soil splash.  Apply neem oil or sulfur spray preventatively.  Avoid watering from above and improve air circulation.  Practice crop rotation and sanitation.",
+        "pesticide": "Apply fungicides such as mancozeb or chlorothalonil weekly.  Start spraying at first appearance of spots.  Continue applications through fruiting if wet weather persists.  Alternate fungicides to prevent resistance.  Cover both sides of leaves for full protection."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "cause": "Infestation by *Tetranychus urticae*, tiny arachnids that suck sap and thrive in dry, dusty conditions.",
+        "natural": "Spray with water to dislodge mites and increase humidity.  Introduce natural predators like ladybugs or predatory mites.  Apply insecticidal soap or neem oil every 5–7 days.  Remove heavily infested leaves.  Maintain moist soil and avoid drought stress.",
+        "pesticide": "Use miticides such as abamectin or bifenthrin if infestation is severe.  Spray undersides of leaves thoroughly.  Repeat every 7–10 days until mite pressure drops.  Do not apply during flowering to avoid harming pollinators.  Use PPE and rotate miticides to avoid resistance."
+    },
+    "Tomato___Target_Spot": {
+        "cause": "Caused by *Corynespora cassiicola*, a fungus that causes circular brown lesions with yellow halos.",
+        "natural": "Remove and discard infected leaves.  Use resistant tomato varieties.  Apply compost tea or potassium bicarbonate spray weekly.  Ensure adequate spacing between plants.  Avoid overhead irrigation.",
+        "pesticide": "Spray fungicides like azoxystrobin or chlorothalonil at early signs.  Repeat every 7 days during wet weather.  Ensure full leaf coverage.  Alternate fungicide classes to manage resistance.  Avoid spraying during pollinator activity."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "cause": "A viral disease transmitted by whiteflies, causing curled yellow leaves and stunted growth.",
+        "natural": "Remove infected plants immediately to prevent spread.  Use reflective mulch to repel whiteflies.  Introduce beneficial insects like lacewings.  Use floating row covers during early growth.  Grow resistant varieties whenever possible.",
+        "pesticide": "Apply insecticidal soap or neem oil for whitefly control.  Use systemic insecticides like imidacloprid if infestation is severe.  Spray undersides of leaves thoroughly.  Repeat applications based on pest pressure.  Avoid spraying during flowering."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "cause": "Caused by *Tobamovirus*, transmitted through mechanical contact, tools, or infected seeds.",
+        "natural": "Remove and destroy infected plants.  Sanitize tools between uses.  Avoid smoking near plants  {tobacco can carry the virus }.  Grow resistant tomato cultivars.  Do not compost infected material.",
+        "pesticide": "There is no chemical cure for this virus.  Focus on vector and tool sanitation.  Control aphids and thrips that may assist spread.  Use insecticidal soap as a preventive.  Maintain strict field hygiene."
+    },
+    "Tomato___healthy": {
+        "cause": "Plant is healthy with no signs of pests or disease.",
+        "natural": "No remedies required.",
+        "pesticide": "No remedies required"
+    }
+}
+
+
