@@ -1,0 +1,30 @@
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+reportlab
+
+
+# Image processing
+Pillow
+opencv-python
+
+# Mutual Information Estimation
+scipy
+seaborn
+
+# Optional (for MI heatmaps, GradCAM, etc.)
+captum
+umap-learn
+
+# Jupyter + Dev
+ipython
+jupyter
+notebook
+# If using Mac (Apple Silicon) - MPS support is built-in with torch>=1.12
+# If using Colab, these versions are also compatible with CUDA
