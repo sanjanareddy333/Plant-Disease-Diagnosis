@@ -1,0 +1,32 @@
+
+Training Top-K MI Feature Model...
+Available keys in features file: ['original_features', 'weighted_features', 'attention_weights', 'labels', 'class_names']
+Using device: mps
+Epoch 1/10: 100%|██████████| 272/272 [00:03<00:00, 82.88it/s, loss=1.9]   
+Saved best model with val_loss: 0.3086
+Epoch 1: Train Loss: 1.0409, Train Acc: 71.81%, Val Loss: 0.3086, Val Acc: 89.91%, LR: 0.001000
+Epoch 2/10: 100%|██████████| 272/272 [00:01<00:00, 158.33it/s, loss=0.688] 
+Saved best model with val_loss: 0.2076
+Epoch 2: Train Loss: 0.3374, Train Acc: 89.53%, Val Loss: 0.2076, Val Acc: 93.09%, LR: 0.001000
+Epoch 3/10: 100%|██████████| 272/272 [00:01<00:00, 158.14it/s, loss=0.681] 
+Saved best model with val_loss: 0.1941
+Epoch 3: Train Loss: 0.2434, Train Acc: 91.89%, Val Loss: 0.1941, Val Acc: 93.87%, LR: 0.001000
+Epoch 4/10: 100%|██████████| 272/272 [00:01<00:00, 156.24it/s, loss=0.256] 
+Saved best model with val_loss: 0.1748
+Epoch 4: Train Loss: 0.1828, Train Acc: 93.95%, Val Loss: 0.1748, Val Acc: 94.56%, LR: 0.001000
+Epoch 5/10: 100%|██████████| 272/272 [00:01<00:00, 156.94it/s, loss=0.763] 
+Saved best model with val_loss: 0.1606
+Epoch 5: Train Loss: 0.1669, Train Acc: 94.41%, Val Loss: 0.1606, Val Acc: 95.30%, LR: 0.001000
+Epoch 6/10: 100%|██████████| 272/272 [00:01<00:00, 156.05it/s, loss=0.966]  
+Saved best model with val_loss: 0.1567
+Epoch 6: Train Loss: 0.1464, Train Acc: 95.40%, Val Loss: 0.1567, Val Acc: 95.58%, LR: 0.001000
+Epoch 7/10: 100%|██████████| 272/272 [00:01<00:00, 148.02it/s, loss=0.0116] 
+Epoch 7: Train Loss: 0.1286, Train Acc: 95.77%, Val Loss: 0.1792, Val Acc: 95.21%, LR: 0.001000
+Epoch 8/10: 100%|██████████| 272/272 [00:01<00:00, 158.30it/s, loss=0.312]  
+Epoch 8: Train Loss: 0.1135, Train Acc: 96.27%, Val Loss: 0.1632, Val Acc: 95.21%, LR: 0.001000
+Epoch 9/10: 100%|██████████| 272/272 [00:01<00:00, 153.59it/s, loss=0.0603] 
+Epoch 9: Train Loss: 0.1046, Train Acc: 96.35%, Val Loss: 0.1657, Val Acc: 95.12%, LR: 0.001000
+Epoch 10/10: 100%|██████████| 272/272 [00:01<00:00, 156.70it/s, loss=0.00986] 
+Epoch 10: Train Loss: 0.0875, Train Acc: 96.90%, Val Loss: 0.1705, Val Acc: 95.12%, LR: 0.000500
+Accuracy with Top-K MI features: 0.9512
+Precision: 0.9523, Recall: 0.9512, F1: 0.9503

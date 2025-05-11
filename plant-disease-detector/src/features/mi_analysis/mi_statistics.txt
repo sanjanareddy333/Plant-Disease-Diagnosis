@@ -1,0 +1,17 @@
+===== MI Score Statistics =====
+
+mean_mi: 0.000000
+std_mi: 0.000000
+median_mi: 0.000000
+max_mi: 0.000000
+min_mi: 0.000000
+top10_mean: 0.000000
+bottom10_mean: 0.000000
+
+Top 10 features: [511, 510, 161, 162, 163, 164, 165, 166, 167, 168]
+Bottom 10 features: [0, 349, 348, 347, 346, 345, 344, 343, 342, 341]
+
+===== Feature Impact Analysis =====
+Feature quality ratio (top10/bottom10): nan
+Top 10% features mean MI: 0.000000
+Bottom 10% features mean MI: 0.000000

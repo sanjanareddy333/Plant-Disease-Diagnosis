@@ -1,0 +1,26 @@
+2025-05-02 23:46:15,615 - INFO - Training CNN with MI Regularization + Attention...
+2025-05-02 23:46:15,615 - INFO - Using device: mps
+/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/train_all_models.py:281: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/Users/preddy/PyCharmMiscProject/.venv2/lib/python3.12/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+Epoch 1/5:   0%|          | 0/1188 [00:00<?, ?it/s]/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/train_all_models.py:303: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/Users/preddy/PyCharmMiscProject/.venv2/lib/python3.12/site-packages/torch/amp/autocast_mode.py:266: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+Epoch 1/5: 100%|██████████| 1188/1188 [07:00<00:00,  2.82it/s, loss=0.152, mi_lambda=0.002] 
+2025-05-02 23:54:37,155 - INFO - Saved best model with val_acc: 85.00%
+2025-05-02 23:54:37,157 - INFO - Epoch [1/5] Train Loss: 0.7985 Train Acc: 81.10% Val Loss: 0.5553 Val Acc: 85.00% MI Lambda: 0.0020
+Epoch 2/5: 100%|██████████| 1188/1188 [07:23<00:00,  2.68it/s, loss=0.0722, mi_lambda=0.004]
+2025-05-03 00:03:15,318 - INFO - Saved best model with val_acc: 89.28%
+2025-05-03 00:03:15,320 - INFO - Epoch [2/5] Train Loss: 0.2617 Train Acc: 91.70% Val Loss: 0.3398 Val Acc: 89.28% MI Lambda: 0.0040
+Epoch 3/5: 100%|██████████| 1188/1188 [07:10<00:00,  2.76it/s, loss=0.357, mi_lambda=0.006]  
+2025-05-03 00:11:44,289 - INFO - Saved best model with val_acc: 97.65%
+2025-05-03 00:11:44,290 - INFO - Epoch [3/5] Train Loss: 0.1432 Train Acc: 95.09% Val Loss: 0.0745 Val Acc: 97.65% MI Lambda: 0.0060
+Epoch 4/5: 100%|██████████| 1188/1188 [07:27<00:00,  2.66it/s, loss=0.102, mi_lambda=0.008]   
+2025-05-03 00:20:27,545 - INFO - Saved best model with val_acc: 98.95%
+2025-05-03 00:20:27,546 - INFO - Epoch [4/5] Train Loss: 0.0510 Train Acc: 97.72% Val Loss: 0.0350 Val Acc: 98.95% MI Lambda: 0.0080
+Epoch 5/5: 100%|██████████| 1188/1188 [07:30<00:00,  2.64it/s, loss=0.00124, mi_lambda=0.01] 
+2025-05-03 00:29:21,301 - INFO - Saved best model with val_acc: 99.42%
+2025-05-03 00:29:21,302 - INFO - Epoch [5/5] Train Loss: 0.0053 Train Acc: 99.00% Val Loss: 0.0196 Val Acc: 99.42% MI Lambda: 0.0100
+2025-05-03 00:29:21,428 - INFO - Best validation accuracy: 99.42%

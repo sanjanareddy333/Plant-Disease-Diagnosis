@@ -1,0 +1,29 @@
+2025-05-02 23:03:03,314 - INFO - Training Full CNN Model...
+2025-05-02 23:03:03,863 - INFO - Using device: mps
+/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/train_all_models.py:441: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/Users/preddy/PyCharmMiscProject/.venv2/lib/python3.12/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+Epoch 1/5:   0%|          | 0/1188 [00:00<?, ?it/s]/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/train_all_models.py:455: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/Users/preddy/PyCharmMiscProject/.venv2/lib/python3.12/site-packages/torch/amp/autocast_mode.py:266: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+Epoch 1/5: 100%|██████████| 1188/1188 [06:42<00:00,  2.95it/s, loss=0.342] 
+2025-05-02 23:11:00,713 - INFO - Saved best model with val_acc: 96.56%
+2025-05-02 23:11:00,714 - INFO - Epoch [1/5] Train Loss: 1.3578 Train Acc: 67.42% Val Loss: 0.1325 Val Acc: 96.56% LR: 0.000076
+Epoch 2/5: 100%|██████████| 1188/1188 [06:42<00:00,  2.95it/s, loss=0.188]  
+2025-05-02 23:18:58,191 - INFO - Saved best model with val_acc: 97.94%
+2025-05-02 23:18:58,192 - INFO - Epoch [2/5] Train Loss: 0.1554 Train Acc: 95.58% Val Loss: 0.0656 Val Acc: 97.94% LR: 0.000095
+Epoch 3/5: 100%|██████████| 1188/1188 [06:42<00:00,  2.95it/s, loss=0.0437] 
+2025-05-02 23:26:55,215 - INFO - Saved best model with val_acc: 98.65%
+2025-05-02 23:26:55,216 - INFO - Epoch [3/5] Train Loss: 0.0814 Train Acc: 97.58% Val Loss: 0.0417 Val Acc: 98.65% LR: 0.000061
+Epoch 4/5: 100%|██████████| 1188/1188 [06:44<00:00,  2.94it/s, loss=0.168]  
+2025-05-02 23:34:53,226 - INFO - Saved best model with val_acc: 99.14%
+2025-05-02 23:34:53,227 - INFO - Epoch [4/5] Train Loss: 0.0468 Train Acc: 98.63% Val Loss: 0.0257 Val Acc: 99.14% LR: 0.000019
+Epoch 5/5: 100%|██████████| 1188/1188 [06:43<00:00,  2.94it/s, loss=0.0839] 
+2025-05-02 23:42:50,932 - INFO - Saved best model with val_acc: 99.43%
+2025-05-02 23:42:50,933 - INFO - Epoch [5/5] Train Loss: 0.0292 Train Acc: 99.18% Val Loss: 0.0183 Val Acc: 99.43% LR: 0.000000
+2025-05-02 23:44:04,194 - INFO - Final Accuracy of Full CNN Model: 0.9943
+2025-05-02 23:44:04,195 - INFO - Precision: 0.9944, Recall: 0.9943, F1: 0.9943
+2025-05-02 23:46:14,577 - INFO - Model saved to models/full_cnn_model_final.pt
+2025-05-02 23:46:14,577 - INFO - Best validation accuracy: 99.43%

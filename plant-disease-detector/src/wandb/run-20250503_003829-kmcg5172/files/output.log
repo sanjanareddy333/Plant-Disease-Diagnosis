@@ -1,0 +1,18 @@
+2025-05-03 00:38:29,712 - INFO - Training Top-K MI Feature Model...
+2025-05-03 00:38:29,749 - INFO - Using device: mps
+Epoch 1/5: 100%|██████████| 272/272 [00:09<00:00, 28.78it/s, loss=0.582] 
+2025-05-03 00:38:45,948 - INFO - Saved best model with val_loss: 0.3137
+2025-05-03 00:38:45,949 - INFO - Epoch 1: Train Loss: 1.0523, Train Acc: 71.97%, Val Loss: 0.3137, Val Acc: 90.60%, LR: 0.001000
+Epoch 2/5: 100%|██████████| 272/272 [00:01<00:00, 153.10it/s, loss=0.209] 
+2025-05-03 00:38:47,904 - INFO - Saved best model with val_loss: 0.2203
+2025-05-03 00:38:47,904 - INFO - Epoch 2: Train Loss: 0.3363, Train Acc: 89.11%, Val Loss: 0.2203, Val Acc: 92.86%, LR: 0.001000
+Epoch 3/5: 100%|██████████| 272/272 [00:01<00:00, 157.33it/s, loss=0.198] 
+2025-05-03 00:38:49,803 - INFO - Saved best model with val_loss: 0.1910
+2025-05-03 00:38:49,803 - INFO - Epoch 3: Train Loss: 0.2441, Train Acc: 92.42%, Val Loss: 0.1910, Val Acc: 94.33%, LR: 0.001000
+Epoch 4/5: 100%|██████████| 272/272 [00:01<00:00, 154.47it/s, loss=0.0639]
+2025-05-03 00:38:51,734 - INFO - Saved best model with val_loss: 0.1801
+2025-05-03 00:38:51,734 - INFO - Epoch 4: Train Loss: 0.1944, Train Acc: 93.56%, Val Loss: 0.1801, Val Acc: 94.42%, LR: 0.001000
+Epoch 5/5: 100%|██████████| 272/272 [00:01<00:00, 156.01it/s, loss=0.31]  
+2025-05-03 00:38:53,645 - INFO - Saved best model with val_loss: 0.1655
+2025-05-03 00:38:53,645 - INFO - Epoch 5: Train Loss: 0.1766, Train Acc: 94.14%, Val Loss: 0.1655, Val Acc: 94.56%, LR: 0.001000
+2025-05-03 00:38:53,653 - INFO - Model saved to models/topk_mi_model_final.pt

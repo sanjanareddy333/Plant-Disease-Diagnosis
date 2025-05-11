@@ -1,0 +1,7 @@
+{"time":"2025-05-04T14:04:04.715325-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/wandb/run-20250504_140404-m9uuy4za/logs/debug-core.log"}
+{"time":"2025-05-04T14:04:04.919378-05:00","level":"INFO","msg":"created new stream","id":"m9uuy4za"}
+{"time":"2025-05-04T14:04:04.919613-05:00","level":"INFO","msg":"stream: started","id":"m9uuy4za"}
+{"time":"2025-05-04T14:04:04.919957-05:00","level":"INFO","msg":"handler: started","stream_id":"m9uuy4za"}
+{"time":"2025-05-04T14:04:04.919996-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"m9uuy4za"}
+{"time":"2025-05-04T14:04:04.920234-05:00","level":"INFO","msg":"sender: started","stream_id":"m9uuy4za"}
+{"time":"2025-05-04T14:04:05.017924-05:00","level":"INFO","msg":"Starting system monitor"}

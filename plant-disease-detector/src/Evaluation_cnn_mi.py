@@ -14,7 +14,7 @@ from torch.utils.data import DataLoader
 from train_all_models import AttentiveResNet
 
 # ---- CONFIG ----
-DATA_DIR = "data"
+DATA_DIR = "../../data"
 MODEL_PATH = "models/plant_disease_cnn_attentive_mi_best.pt"
 NUM_CLASSES = 38
 BATCH_SIZE = 1

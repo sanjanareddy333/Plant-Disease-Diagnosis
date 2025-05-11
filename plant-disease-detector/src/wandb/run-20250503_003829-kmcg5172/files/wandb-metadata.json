@@ -1,0 +1,44 @@
+{
+  "os": "macOS-15.3.1-arm64-arm-64bit",
+  "python": "CPython 3.12.6",
+  "startedAt": "2025-05-03T05:38:29.265974Z",
+  "program": "/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/train_all_models.py",
+  "codePath": "plant-disease-detector/src/train_all_models.py",
+  "git": {
+    "remote": "https://github.com/sanjanareddy333/Plant-Disease-Diagnosis.git",
+    "commit": "93e14e0e900d5efac94a665e57726e3c984516cc"
+  },
+  "email": "sanjanareddypeddi989@gmail.com",
+  "root": "/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src",
+  "host": "Mac.imon.net",
+  "executable": "/Users/preddy/PyCharmMiscProject/.venv2/bin/python",
+  "codePathLocal": "train_all_models.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "231184691200"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "231184691200"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "apple": {
+    "name": "Apple M4",
+    "ecpuCores": 6,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 16,
+    "swapTotalBytes": "7516192768",
+    "ramTotalBytes": "17179869184"
+  }
+}

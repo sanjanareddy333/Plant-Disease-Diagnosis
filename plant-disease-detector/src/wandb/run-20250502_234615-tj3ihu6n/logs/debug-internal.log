@@ -1,0 +1,16 @@
+{"time":"2025-05-02T23:46:15.168028-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/wandb/run-20250502_234615-tj3ihu6n/logs/debug-core.log"}
+{"time":"2025-05-02T23:46:15.366539-05:00","level":"INFO","msg":"created new stream","id":"tj3ihu6n"}
+{"time":"2025-05-02T23:46:15.366607-05:00","level":"INFO","msg":"stream: started","id":"tj3ihu6n"}
+{"time":"2025-05-02T23:46:15.366644-05:00","level":"INFO","msg":"sender: started","stream_id":"tj3ihu6n"}
+{"time":"2025-05-02T23:46:15.366638-05:00","level":"INFO","msg":"handler: started","stream_id":"tj3ihu6n"}
+{"time":"2025-05-02T23:46:15.366609-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"tj3ihu6n"}
+{"time":"2025-05-02T23:46:15.501534-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-03T00:29:21.436994-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-03T00:29:21.437353-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-03T00:29:21.890613-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-03T00:29:22.014153-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-05-03T00:29:22.025262-05:00","level":"INFO","msg":"stream: closing","id":"tj3ihu6n"}
+{"time":"2025-05-03T00:29:22.025295-05:00","level":"INFO","msg":"handler: closed","stream_id":"tj3ihu6n"}
+{"time":"2025-05-03T00:29:22.02532-05:00","level":"INFO","msg":"sender: closed","stream_id":"tj3ihu6n"}
+{"time":"2025-05-03T00:29:22.025544-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tj3ihu6n"}
+{"time":"2025-05-03T00:29:22.025575-05:00","level":"INFO","msg":"stream: closed","id":"tj3ihu6n"}

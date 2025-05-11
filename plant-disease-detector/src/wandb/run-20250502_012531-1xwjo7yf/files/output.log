@@ -1,0 +1,30 @@
+
+Training Full CNN Model...
+Using device: mps
+Epoch 1/10: 100%|██████████| 1188/1188 [04:41<00:00,  4.22it/s, loss=0.0929] 
+Saved best model with val_acc: 98.69%
+Epoch [1/10] Train Loss: 0.2418 Train Acc: 94.18% Val Loss: 0.0471 Val Acc: 98.69% LR: 0.000100
+Epoch 2/10: 100%|██████████| 1188/1188 [04:41<00:00,  4.21it/s, loss=0.0176] 
+Saved best model with val_acc: 98.94%
+Epoch [2/10] Train Loss: 0.0546 Train Acc: 98.42% Val Loss: 0.0361 Val Acc: 98.94% LR: 0.000100
+Epoch 3/10: 100%|██████████| 1188/1188 [04:46<00:00,  4.15it/s, loss=0.239]  
+Epoch [3/10] Train Loss: 0.0392 Train Acc: 98.84% Val Loss: 0.0500 Val Acc: 98.46% LR: 0.000100
+Epoch 4/10: 100%|██████████| 1188/1188 [04:46<00:00,  4.15it/s, loss=0.27]    
+Epoch [4/10] Train Loss: 0.0314 Train Acc: 99.01% Val Loss: 0.0642 Val Acc: 97.94% LR: 0.000100
+Epoch 5/10: 100%|██████████| 1188/1188 [04:45<00:00,  4.15it/s, loss=0.0135]  
+Saved best model with val_acc: 99.39%
+Epoch [5/10] Train Loss: 0.0301 Train Acc: 99.08% Val Loss: 0.0199 Val Acc: 99.39% LR: 0.000100
+Epoch 6/10: 100%|██████████| 1188/1188 [04:47<00:00,  4.13it/s, loss=0.0342]  
+Epoch [6/10] Train Loss: 0.0236 Train Acc: 99.22% Val Loss: 0.0207 Val Acc: 99.39% LR: 0.000100
+Epoch 7/10: 100%|██████████| 1188/1188 [04:45<00:00,  4.16it/s, loss=0.0428]  
+Epoch [7/10] Train Loss: 0.0256 Train Acc: 99.18% Val Loss: 0.0244 Val Acc: 99.27% LR: 0.000100
+Epoch 8/10: 100%|██████████| 1188/1188 [04:43<00:00,  4.19it/s, loss=0.000497]
+Saved best model with val_acc: 99.49%
+Epoch [8/10] Train Loss: 0.0178 Train Acc: 99.47% Val Loss: 0.0169 Val Acc: 99.49% LR: 0.000100
+Epoch 9/10: 100%|██████████| 1188/1188 [04:47<00:00,  4.13it/s, loss=0.0183]  
+Epoch [9/10] Train Loss: 0.0190 Train Acc: 99.45% Val Loss: 0.0229 Val Acc: 99.24% LR: 0.000100
+Epoch 10/10: 100%|██████████| 1188/1188 [04:46<00:00,  4.14it/s, loss=0.144]   
+Epoch [10/10] Train Loss: 0.0176 Train Acc: 99.47% Val Loss: 0.0179 Val Acc: 99.43% LR: 0.000100
+Final Accuracy of Full CNN Model: 0.9943
+Precision: 0.9944, Recall: 0.9943, F1: 0.9943
+Best validation accuracy: 99.49%

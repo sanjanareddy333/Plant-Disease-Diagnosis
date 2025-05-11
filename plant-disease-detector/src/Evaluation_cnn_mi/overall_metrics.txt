@@ -1,0 +1,10 @@
+OVERALL CLASSIFICATION PERFORMANCE
+==================================================
+Total Images: 122864
+Correctly Classified: 121998 (99.30%)
+Incorrectly Classified: 866 (0.70%)
+--------------------------------------------------
+Accuracy: 0.9930
+F1 Score (weighted): 0.9930
+Precision (weighted): 0.9931
+==================================================
