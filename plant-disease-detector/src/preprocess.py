@@ -5,8 +5,8 @@ import shutil
 import random
 from tqdm import tqdm
 
-DATASET_DIR = "../../plant_disease_webapplication/data/plantvillage dataset/color"
-OUTPUT_DIR = "../../data"
+DATASET_DIR = "../../data/plantvillage dataset/color"
+OUTPUT_DIR = "../data"
 SPLIT_RATIOS = (0.7, 0.2, 0.1)  # train, val, test
 RANDOM_SEED = 42  # Added random seed for reproducibility
 

@@ -14,7 +14,7 @@ from collections import Counter
 import torch.nn as nn
 
 # ---- CONFIG ----
-DATA_DIR = "../../data"
+DATA_DIR = "../data"
 MODEL_PATH = "models/full_cnn_model_best.pt"
 NUM_CLASSES = 38
 BATCH_SIZE = 1

@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 # ----- CONFIG -----
-DATA_DIR = "../../data"
+DATA_DIR = "../data"
 MODEL_PATH = "models/full_cnn_model_best.pt"
 SAVE_DIR = "gradcam_outputs"
 ANALYSIS_DIR = "gradcam_analysis"

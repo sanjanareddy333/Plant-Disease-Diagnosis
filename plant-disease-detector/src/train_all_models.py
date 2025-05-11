@@ -228,7 +228,7 @@ def train_cnn_with_mi():
     writer = SummaryWriter('runs/cnn_mi')
     logging.info("Training CNN with MI Regularization + Attention...")
 
-    data_dir = "../../data"
+    data_dir = "../data"
     num_classes = 38
     batch_size = 32
     num_epochs = 5
@@ -392,7 +392,7 @@ def train_cnn_with_mi():
     writer = SummaryWriter('runs/cnn_mi')
     logging.info("Training CNN with MI Regularization + Attention...")
 
-    data_dir = "../../data"
+    data_dir = "../data"
     num_classes = 38
     batch_size = 32
     num_epochs = 5
@@ -558,8 +558,8 @@ def train_full_model():
     writer = SummaryWriter('runs/full_cnn')
     logging.info("Training Full CNN Model...")
 
-    train_dir = '../../data/train'
-    val_dir = '../../data/val'
+    train_dir = '../data/train'
+    val_dir = '../data/val'
 
     # Enhanced data augmentation
     train_transform = transforms.Compose([

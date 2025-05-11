@@ -5,7 +5,7 @@ transform = transforms.Compose([
     transforms.ToTensor()
 ])
 
-dataset = datasets.ImageFolder('../../data/train', transform=transform)
+dataset = datasets.ImageFolder('../data/train', transform=transform)
 for i in dataset.classes:
     print("Class name ", i)
 print("Number of classes:", len(dataset.classes))

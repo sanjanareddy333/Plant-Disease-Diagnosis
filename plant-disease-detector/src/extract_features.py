@@ -10,7 +10,7 @@ import torch.nn as nn
 import csv
 
 # --- Configuration ---
-DATA_DIR = "../../data/test"
+DATA_DIR = "../data/test"
 MODELS = {
     "full_cnn": "models/full_cnn_model_best.pt",
     "topk_mi": "models/topk_mi_model_best.pt",
