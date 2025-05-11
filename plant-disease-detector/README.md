@@ -20,13 +20,3 @@ plant-disease-detector/
 ├── requirements.txt
 ```
 
-## Setup
-
-1. Clone this repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the training: `python src/train.py`
-
-## Usage
-
-[Instructions on how to use the project will go here]
-
