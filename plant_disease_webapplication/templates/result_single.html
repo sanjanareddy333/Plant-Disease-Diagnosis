@@ -38,7 +38,7 @@
 </head>
 <body>
 
-  <h2 class="text-center mb-4">🌿 Diagnosis {{ idx + 1 }} of {{ total }}</h2>
+  <h2 class="text-center mb-4"> Diagnosis {{ idx + 1 }} of {{ total }}</h2>
   <a href="{{ url_for('download_report', idx=idx) }}">
     <button class="download-btn">📄 Download Report</button>
 </a>
@@ -48,7 +48,7 @@
       <img src="{{ url_for('static', filename='uploads/' + r['image_path'].split('/')[-1]) }}" alt="Uploaded Leaf">
     </div>
     <div class="col-md-6 image-box">
-      <h5>🧠 Grad-CAM Highlight</h5>
+      <h5>  Grad-CAM Highlight</h5>
     <img src="{{ url_for('static', filename='uploads/' + r['gradcam_path'].split('/')[-1]) }}" alt="Grad-CAM">
     </div>
   </div>
@@ -65,7 +65,7 @@
 </div>
 
 <div class="remedy-section">
-  <h3>🌿 Natural Remedy</h3>
+  <h3> Natural Remedy</h3>
   <p>{{ r.natural.replace('\n', '<br>') | safe }}</p>
 </div>
 
@@ -76,7 +76,7 @@
 
   <div class="text-center mt-4">
     <a href="/results" class="btn btn-custom">🔙 Back to All Results</a>
-    <a href="/" class="btn btn-custom">🔁 Diagnose More</a>
+    <a href="/" class="btn btn-custom"> Diagnose More</a>
   </div>
 
 <div style="text-align: center; margin-top: 30px;">

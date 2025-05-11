@@ -1,0 +1,11 @@
+2025-05-02 23:00:14,972 - INFO - Training Full CNN Model...
+2025-05-02 23:00:15,593 - INFO - Using device: mps
+/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/train_all_models.py:441: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/Users/preddy/PyCharmMiscProject/.venv2/lib/python3.12/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+Epoch 1/15:   0%|          | 0/1188 [00:00<?, ?it/s]/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/train_all_models.py:455: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/Users/preddy/PyCharmMiscProject/.venv2/lib/python3.12/site-packages/torch/amp/autocast_mode.py:266: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+Epoch 1/15:   5%|▍         | 56/1188 [00:49<05:58,  3.16it/s, loss=3.59]  

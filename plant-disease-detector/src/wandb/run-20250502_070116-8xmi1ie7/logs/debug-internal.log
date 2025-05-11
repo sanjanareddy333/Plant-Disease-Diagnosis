@@ -1,0 +1,23 @@
+{"time":"2025-05-02T07:01:16.201312-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/wandb/run-20250502_070116-8xmi1ie7/logs/debug-core.log"}
+{"time":"2025-05-02T07:01:16.38286-05:00","level":"INFO","msg":"created new stream","id":"8xmi1ie7"}
+{"time":"2025-05-02T07:01:16.382956-05:00","level":"INFO","msg":"stream: started","id":"8xmi1ie7"}
+{"time":"2025-05-02T07:01:16.382947-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"8xmi1ie7"}
+{"time":"2025-05-02T07:01:16.382977-05:00","level":"INFO","msg":"sender: started","stream_id":"8xmi1ie7"}
+{"time":"2025-05-02T07:01:16.382999-05:00","level":"INFO","msg":"handler: started","stream_id":"8xmi1ie7"}
+{"time":"2025-05-02T07:01:16.569269-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-02T07:34:05.779689-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/sanjanareddypeddi989-university-of-iowa/plant-disease/8xmi1ie7/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-02T07:34:08.101773-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/sanjanareddypeddi989-university-of-iowa/plant-disease/8xmi1ie7/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-02T07:34:12.397276-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/sanjanareddypeddi989-university-of-iowa/plant-disease/8xmi1ie7/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-02T07:42:48.151766-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/sanjanareddypeddi989-university-of-iowa/plant-disease/8xmi1ie7/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-02T07:42:50.573315-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.141:54129->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2025-05-02T07:49:08.334592-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/sanjanareddypeddi989-university-of-iowa/plant-disease/8xmi1ie7/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-02T07:54:06.867234-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.17.16.84:54620->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2025-05-02T08:30:16.863232-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-02T08:30:16.863386-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-02T08:30:17.407956-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-02T08:30:17.536044-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-05-02T08:30:17.547406-05:00","level":"INFO","msg":"stream: closing","id":"8xmi1ie7"}
+{"time":"2025-05-02T08:30:17.547444-05:00","level":"INFO","msg":"handler: closed","stream_id":"8xmi1ie7"}
+{"time":"2025-05-02T08:30:17.547476-05:00","level":"INFO","msg":"sender: closed","stream_id":"8xmi1ie7"}
+{"time":"2025-05-02T08:30:17.547674-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8xmi1ie7"}
+{"time":"2025-05-02T08:30:17.547723-05:00","level":"INFO","msg":"stream: closed","id":"8xmi1ie7"}

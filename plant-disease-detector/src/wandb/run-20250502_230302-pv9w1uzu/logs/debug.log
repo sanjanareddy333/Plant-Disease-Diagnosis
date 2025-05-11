@@ -1,0 +1,29 @@
+2025-05-02 23:03:02,735 INFO    MainThread:95981 [wandb_setup.py:_flush():68] Current SDK version is 0.19.10
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_setup.py:_flush():68] Configure stats pid to 95981
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_setup.py:_flush():68] Loading settings from /Users/preddy/.config/wandb/settings
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_setup.py:_flush():68] Loading settings from /Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/wandb/settings
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/wandb/run-20250502_230302-pv9w1uzu/logs/debug.log
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/wandb/run-20250502_230302-pv9w1uzu/logs/debug-internal.log
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_init.py:init():852] calling init triggers
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_init.py:init():893] starting backend
+2025-05-02 23:03:02,736 INFO    MainThread:95981 [wandb_init.py:init():897] sending inform_init request
+2025-05-02 23:03:02,771 INFO    MainThread:95981 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-05-02 23:03:02,771 INFO    MainThread:95981 [wandb_init.py:init():907] backend started and connected
+2025-05-02 23:03:02,776 INFO    MainThread:95981 [wandb_init.py:init():1002] updated telemetry
+2025-05-02 23:03:02,822 INFO    MainThread:95981 [wandb_init.py:init():1026] communicating run to backend with 90.0 second timeout
+2025-05-02 23:03:03,206 INFO    MainThread:95981 [wandb_init.py:init():1101] starting run threads in backend
+2025-05-02 23:03:03,310 INFO    MainThread:95981 [wandb_run.py:_console_start():2566] atexit reg
+2025-05-02 23:03:03,310 INFO    MainThread:95981 [wandb_run.py:_redirect():2414] redirect: wrap_raw
+2025-05-02 23:03:03,310 INFO    MainThread:95981 [wandb_run.py:_redirect():2483] Wrapping output streams.
+2025-05-02 23:03:03,311 INFO    MainThread:95981 [wandb_run.py:_redirect():2506] Redirects installed.
+2025-05-02 23:03:03,313 INFO    MainThread:95981 [wandb_init.py:init():1147] run started, returning control to user process
+2025-05-02 23:46:14,577 INFO    MainThread:95981 [wandb_run.py:_finish():2314] finishing run sanjanareddypeddi989-university-of-iowa/plant-disease/pv9w1uzu
+2025-05-02 23:46:14,579 INFO    MainThread:95981 [wandb_run.py:_atexit_cleanup():2531] got exitcode: 0
+2025-05-02 23:46:14,579 INFO    MainThread:95981 [wandb_run.py:_restore():2513] restore
+2025-05-02 23:46:14,579 INFO    MainThread:95981 [wandb_run.py:_restore():2519] restore done
+2025-05-02 23:46:15,137 INFO    MainThread:95981 [wandb_run.py:_footer_history_summary_info():4160] rendering history
+2025-05-02 23:46:15,137 INFO    MainThread:95981 [wandb_run.py:_footer_history_summary_info():4192] rendering summary
+2025-05-02 23:46:15,138 INFO    MainThread:95981 [wandb_run.py:_footer_sync_info():4121] logging synced files

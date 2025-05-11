@@ -1,0 +1,24 @@
+{"time":"2025-05-02T01:25:31.730164-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/Users/preddy/PycharmProjects/Plant-Disease-Diagnosis/plant-disease-detector/src/wandb/run-20250502_012531-1xwjo7yf/logs/debug-core.log"}
+{"time":"2025-05-02T01:25:31.92235-05:00","level":"INFO","msg":"created new stream","id":"1xwjo7yf"}
+{"time":"2025-05-02T01:25:31.922374-05:00","level":"INFO","msg":"stream: started","id":"1xwjo7yf"}
+{"time":"2025-05-02T01:25:31.922381-05:00","level":"INFO","msg":"handler: started","stream_id":"1xwjo7yf"}
+{"time":"2025-05-02T01:25:31.922396-05:00","level":"INFO","msg":"sender: started","stream_id":"1xwjo7yf"}
+{"time":"2025-05-02T01:25:31.922411-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"1xwjo7yf"}
+{"time":"2025-05-02T01:25:32.071328-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-02T05:17:52.63317-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.141:53552->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-02T05:37:59.013475-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.141:53850->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-02T05:53:59.097568-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.141:53863->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-02T06:09:44.128598-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.141:53876->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-02T06:23:05.495842-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.141:53885->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-02T06:23:30.323516-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/sanjanareddypeddi989-university-of-iowa/plant-disease/1xwjo7yf/file_stream\": read tcp 192.168.1.141:53901->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-02T06:39:05.567751-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.141:53896->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-02T06:39:15.306332-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/sanjanareddypeddi989-university-of-iowa/plant-disease/1xwjo7yf/file_stream\": read tcp 192.168.1.141:53923->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-02T07:01:15.559059-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-02T07:01:15.559321-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-02T07:01:15.97946-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-02T07:01:16.14597-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-05-02T07:01:16.155605-05:00","level":"INFO","msg":"stream: closing","id":"1xwjo7yf"}
+{"time":"2025-05-02T07:01:16.155669-05:00","level":"INFO","msg":"handler: closed","stream_id":"1xwjo7yf"}
+{"time":"2025-05-02T07:01:16.155701-05:00","level":"INFO","msg":"sender: closed","stream_id":"1xwjo7yf"}
+{"time":"2025-05-02T07:01:16.155952-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1xwjo7yf"}
+{"time":"2025-05-02T07:01:16.156016-05:00","level":"INFO","msg":"stream: closed","id":"1xwjo7yf"}
