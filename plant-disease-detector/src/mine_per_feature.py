@@ -264,10 +264,10 @@ def compute_and_visualize_mi():
         f.write(f"Top 10% features mean MI: {np.mean(mi_scores[topk_indices[:int(len(mi_scores) * 0.1)]]):.6f}\n")
         f.write(f"Bottom 10% features mean MI: {np.mean(mi_scores[bottom_indices[:int(len(mi_scores) * 0.1)]]):.6f}\n")
 
-    logging.info(f"✅ Saved MI scores to features/mi_scores.npy")
-    logging.info(f"✅ Saved top {TOP_K} feature indices to features/topk_indices.npy")
-    logging.info(f"✅ Saved bottom {TOP_K} feature indices to features/bottom_indices.npy")
-    logging.info(f"📊 Created comprehensive MI analysis visualizations in features/mi_analysis/")
+    logging.info(f"  Saved MI scores to features/mi_scores.npy")
+    logging.info(f"  Saved top {TOP_K} feature indices to features/topk_indices.npy")
+    logging.info(f"  Saved bottom {TOP_K} feature indices to features/bottom_indices.npy")
+    logging.info(f"  Created comprehensive MI analysis visualizations in features/mi_analysis/")
 
 
 if __name__ == "__main__":

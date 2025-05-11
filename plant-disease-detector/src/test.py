@@ -13,7 +13,7 @@ print(dataset.class_to_idx)
 
 import os
 
-folder_path = '/plant_disease_webapplication/data/plantvillage dataset/color/Apple___Apple_scab'  # replace with your actual folder path
+folder_path = '/plant-disease-detector/data/plantvillage dataset/color/Apple___Apple_scab'  # replace with your actual folder path
 
 num_files = len([f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))])
 print(f"Number of files in '{folder_path}': {num_files}")
