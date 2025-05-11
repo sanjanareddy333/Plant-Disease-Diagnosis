@@ -102,9 +102,15 @@ Download detailed PDF reports
 
 **Git Commands**
 Commit & Push
+
 git add .
+
 git commit -m "Train CNN+MI model and enable web UI"
+
 git push origin main
+
 Working on a Feature Branch
+
 git checkout -b feature/new-model
+
 git push origin feature/new-model
